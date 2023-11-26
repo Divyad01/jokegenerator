@@ -1,0 +1,23 @@
+
+.App
+{
+  text-align: center;
+  width:30rem;
+  height:auto;
+  padding:2rem;
+  background-color: #1C0100;
+  color:azure;
+  border-radius: 15px;
+  margin: 10rem auto;
+
+}
+
+.btn
+{
+  background-color: #C4A484;
+  height: 40px;
+  width: 200px;
+  border-radius: 10px;
+  
+
+}
